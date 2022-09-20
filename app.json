@@ -1,7 +1,7 @@
 {
     "name": "VIHANA MD",
     "description": "whatsapp md bot build with nodejs",
-    "repository": "https://github.com/vihangayt0/VihangaBot-MD-V2",
+    "repository": "https://github.com/jia2jia/VihangaBot-MD-V3",
     "logo": "https://telegra.ph/file/88d6fdeff08bbc4945901.jpg",
     "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
     "env": {
@@ -84,45 +84,45 @@
     },
     
 "AUTO_REACT" :{
-    "description" : "IF YOU NEED TO OFF THIS TYPE : false",
+    "description" : "Off : false",
     "required" : true,
   "value" : "true"
     },
       
 "OWNER_REACT_EMOJI" :{
-    "description" : "TYPE ANY EMOJI TO OWNER REACT",
+    "description" : "🕸️",
     "required" : true,
   "value" : "🧑"
     },
       
 "REACT_NUMBER" :{
-    "description" : "TYPE OWNER NUMBER TO OWNER REACT",
+    "description" : "989393921419",
     "required" : true,
   "value" : "947634278433"
     },
       
 "OWNER_NUMBER" :{
-    "description" : "TYPE OWNER NUMBER",
+    "description" : "989393921419",
     "required" : true,
   "value" : "947634278433"
     },
       
 "OWNER_NUMBER2" :{
-    "description" : "TYPE ANY NUMBER",
+    "description" : "989393921419",
     "required" : true,
-  "value" : "947634278433"
+  "value" : "989393921419"
     },
     
 "BOT_NAME" :{
-    "description" : "TYPE BOT NAME",
+    "description" : "jia",
     "required" : true,
   "value" : "𝐕𝐈𝐇𝐀𝐍𝐆𝐀 𝐌𝐃"
     },
       
 "OWNER_NAME" :{
-    "description" : "TYPE OWNER NAME",
+    "description" : "joa",
     "required" : true,
-  "value" : "ᴠɪʜͥᴀɴͣɢͫᴀ ʏᴛ"
+  "value" : "jia"
     },
       
 "GROUP_LINK" :{
@@ -138,15 +138,15 @@
 },
     
 "PACK_NAME" :{
-    "description" : "TYPE ANY NAME",
+    "description" : "jia",
     "required" : true,
-  "value" : "STICKER BY VIHANGA MD"
+  "value" : "jia"
 },
   
 "CAP_NAME" :{
-    "description" : "TYPE ANY NAME",
+    "description" : "jia",
     "required" : true,
-  "value" : "*BY VIHANGA MD*"
+  "value" : "*BY jia MD*"
 },
     
 "IMG_URL" :{
